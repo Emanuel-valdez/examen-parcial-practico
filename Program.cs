@@ -58,7 +58,7 @@
             }
         }
 
-        // ==================== PRODUCTO ELECTRONICO ====================
+    
         public class ProductoElectronico : Producto
         {
             private int garantiaMeses;
@@ -87,7 +87,6 @@
             }
         }
 
-        // ==================== PRODUCTO ALIMENTO ====================
         public class ProductoAlimento : Producto
         {
             private string fechaVencimiento;
@@ -116,7 +115,6 @@
             }
         }
 
-        // ==================== PROGRAMA PRINCIPAL ====================
         class Program
         {
             static void Main(string[] args)
