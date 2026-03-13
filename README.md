@@ -41,7 +41,7 @@ Cantidad: 100
 Fecha de Vencimiento: 2025-12-31
 Impuesto: 28
 ```
-
+![Captura del programa](Captura%20de%20pantalla%202026-03-13%20172122.png)
 ---
 
 ## Información Académica
